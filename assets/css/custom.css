@@ -3,8 +3,11 @@
   font-size: 2em;
 }
 #profpic {
-  max-width: 40%;
+  max-width: 35%;
   height: auto;
+}
+#cbologo {
+  width: 10em;
 }
 #aboutme {
   width: 80%;
