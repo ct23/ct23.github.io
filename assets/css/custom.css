@@ -6,3 +6,9 @@
   max-width: 40%;
   height: auto;
 }
+#aboutme {
+  width: 80%;
+}
+.main.style2 {
+  padding: 3em 0px 6em 0px;
+}
